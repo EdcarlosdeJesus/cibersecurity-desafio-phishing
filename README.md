@@ -51,7 +51,8 @@ Site Cloner => clonar completamente um site de sua escolha
 <img src="https://github.com/user-attachments/assets/3a0b3290-1baf-43a3-a945-8594714801fd" width="600"/>
 
 
-Nessa parte colocaremos o Ip da máquina
+ Nessa parte colocaremos o Ip da máquina
+ 
 <img src="https://github.com/user-attachments/assets/fde3a025-2468-4ae2-aced-5f2457d3b66c" width="600"/>
 
 
