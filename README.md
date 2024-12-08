@@ -41,6 +41,16 @@ Escolhendo a opção 3) Credential Harvester Attack Method iremos prosseguir com
 
 ***
 - Método de ataque: ``` Site Cloner ```
+
+Site Cloner =>clonar completamente um site de sua escolha
+ e permitir que você utilize os vetores de ataque dentro do completamente
+ mesma aplicação web que você estava tentando clonar.
+ 
+Escolhendo a opção 2)Site Cloner vamos da proseguimento no nosso projeto.
+
+<img src="image](https://github.com/user-attachments/assets/3a0b3290-1baf-43a3-a945-8594714801fd" width="600"/>
+
+---
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
