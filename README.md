@@ -11,6 +11,7 @@
 - Iniciando o setoolkit: ``` setoolkit ```
 
 <img src="https://github.com/user-attachments/assets/ef58b643-d95c-43e4-8f1a-4ffb9a1d4ec4" width="400"/>
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 
