@@ -17,7 +17,7 @@
 
  :grin:Nessa seção iremos escolher qual será nosso ataque diante de uma gama de opções.
 
-Escolhendo a opção 1) iremos realizar uma engelharia social.
+:arrow_right:Escolhendo a opção 1) iremos realizar uma engelharia social.
   
 <img src="https://github.com/user-attachments/assets/60e3ea64-7b3a-48d2-a971-535d15a6eae5" width="400"/>
 
@@ -35,7 +35,7 @@ Escolhendo a opção 1) iremos realizar uma engelharia social.
 
 :heavy_check_mark: Escolhendo a opção 3) Credential Harvester Attack Method iremos prosseguir com a nossa engelharia.
 
-Um breve resumo sobre 'Credential Harvester Attack Method' => O método Credential Harvester utilizará a clonagem da web de um site que tenha um campo de nome de usuário e senha e coletará todas as informações postadas no site.
+:arrow_right:Um breve resumo sobre 'Credential Harvester Attack Method' => O método Credential Harvester utilizará a clonagem da web de um site que tenha um campo de nome de usuário e senha e coletará todas as informações postadas no site.
 
 <img src="https://github.com/user-attachments/assets/56522dad-4a2b-4623-a46a-4f7c1b0d577f" width="600"/>
 
@@ -44,7 +44,7 @@ Um breve resumo sobre 'Credential Harvester Attack Method' => O método Credenti
 
 :heavy_check_mark: Escolhendo a opção 2) Site Cloner vamos da proseguimento no nosso projeto.
 
-Site Cloner => clonar completamente um site de sua escolha
+:arrow_right:Site Cloner => clonar completamente um site de sua escolha
  e permitir que você utilize os vetores de ataque dentro do completamente
  mesma aplicação web que você estava tentando clonar.
 
