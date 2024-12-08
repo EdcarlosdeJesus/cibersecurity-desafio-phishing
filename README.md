@@ -9,7 +9,8 @@
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
-  <img src="https://github.com/user-attachments/assets/ef58b643-d95c-43e4-8f1a-4ffb9a1d4ec4" width="200"/>
+
+<img src="https://github.com/user-attachments/assets/ef58b643-d95c-43e4-8f1a-4ffb9a1d4ec4" width="400"/>
 
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
