@@ -15,13 +15,13 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 
 Nessa seção iremos escolher qual será nosso ataque diante de uma gama de opções.
+Escolhendo a opção 1 iremos fazer uma engelharia social.
   
 <img src="https://github.com/user-attachments/assets/60e3ea64-7b3a-48d2-a971-535d15a6eae5" width="400"/>
 
+
  
 - Vetor de ataque: ``` Web Site Attack Vectors ```
-
-Escolhendo a opção 1 iremos fazer uma engelharia social.
 <img src="https://github.com/user-attachments/assets/60797a8d-819a-48a1-b9f2-7919287fd716" width="400"/>
 
   
