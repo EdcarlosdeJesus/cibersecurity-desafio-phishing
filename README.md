@@ -15,7 +15,7 @@
 
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 
-Nessa seção iremos escolher qual será nosso ataque diante de uma gama de opções.
+ :grin:Nessa seção iremos escolher qual será nosso ataque diante de uma gama de opções.
 
 Escolhendo a opção 1) iremos realizar uma engelharia social.
   
@@ -25,7 +25,7 @@ Escolhendo a opção 1) iremos realizar uma engelharia social.
  
 - Vetor de ataque: ``` Web Site Attack Vectors ```
   
-Ainda falando sobre engelharia social iremos optar pelo web Site attack Vectors escolhendo a opção 2).
+ :heavy_check_mark:Ainda falando sobre engelharia social iremos optar pelo web Site attack Vectors escolhendo a opção 2).
   
 <img src="https://github.com/user-attachments/assets/60797a8d-819a-48a1-b9f2-7919287fd716" width="400"/>
 
@@ -33,7 +33,7 @@ Ainda falando sobre engelharia social iremos optar pelo web Site attack Vectors 
   
 - Método de ataque: ```Credential Harvester Attack Method ```
 
-Escolhendo a opção 3) Credential Harvester Attack Method iremos prosseguir com a nossa engelharia.
+:heavy_check_mark: Escolhendo a opção 3) Credential Harvester Attack Method iremos prosseguir com a nossa engelharia.
 
 Um breve resumo sobre 'Credential Harvester Attack Method' => O método Credential Harvester utilizará a clonagem da web de um site que tenha um campo de nome de usuário e senha e coletará todas as informações postadas no site.
 
@@ -42,7 +42,7 @@ Um breve resumo sobre 'Credential Harvester Attack Method' => O método Credenti
 ***
 - Método de ataque: ``` Site Cloner ```
 
-Escolhendo a opção 2) Site Cloner vamos da proseguimento no nosso projeto.
+:heavy_check_mark: Escolhendo a opção 2) Site Cloner vamos da proseguimento no nosso projeto.
 
 Site Cloner => clonar completamente um site de sua escolha
  e permitir que você utilize os vetores de ataque dentro do completamente
@@ -51,25 +51,19 @@ Site Cloner => clonar completamente um site de sua escolha
 <img src="https://github.com/user-attachments/assets/3a0b3290-1baf-43a3-a945-8594714801fd" width="600"/>
 
 
- Nessa parte colocaremos o Ip da máquina
+ :heavy_check_mark: Nessa parte colocaremos o Ip da máquina
  
 <img src="https://github.com/user-attachments/assets/fde3a025-2468-4ae2-aced-5f2457d3b66c" width="600"/>
 
-Após colocar o Ip da máquina e o site que deseja clonar só aguardar...
+:heavy_check_mark: Após colocar o Ip da máquina e o site que deseja clonar só aguardar...
 
 <img src="https://github.com/user-attachments/assets/55ffc114-2ea6-4ece-9d3e-4baa3c7d2841" width="800"/>
 
 
 ---
 
-Por mais que o projeto do professor ensinou a usar facebook, tentei algo diferente usando uma das plataforma mais usada hoje em dia.
+:heavy_check_mark: Por mais que o projeto do professor ensinou a usar facebook, tentei algo diferente usando uma das plataforma mais usada hoje em dia.
 
 <img src="https://github.com/user-attachments/assets/f18989f6-22bf-457c-a4c6-083fb5e2c245" width="800"/>
 
----
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
 
-### Resutados
-
-![Alt text](./passwd.png "Optional title")
