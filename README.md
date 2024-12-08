@@ -61,7 +61,8 @@ Após colocar o Ip da máquina e o site que deseja clonar só aguardar...
 
 
 ---
-Achei tão facinante esse projeto que resolvi ir um pouco alem e por que nao tentar em outros site, como proprio instagram
+
+Por mais que o projeto do professor ensinou a usar facebook, tentei algo diferente usando uma das plataforma mais usada hoje em dia.
 
 <img src="https://github.com/user-attachments/assets/f18989f6-22bf-457c-a4c6-083fb5e2c245" width="800"/>
 
