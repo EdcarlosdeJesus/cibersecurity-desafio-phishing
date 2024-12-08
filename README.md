@@ -2,7 +2,7 @@
 
 ### Ferramentas
 
-- Kali Linux 
+- Kali Linux :desktop_computer:
 - setoolkit :space_invader:
 
 ### Configurando o Phishing no Kali Linux
