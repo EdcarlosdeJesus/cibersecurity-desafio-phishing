@@ -55,6 +55,11 @@ Site Cloner => clonar completamente um site de sua escolha
  
 <img src="https://github.com/user-attachments/assets/fde3a025-2468-4ae2-aced-5f2457d3b66c" width="600"/>
 
+Após colocar o Ip da máquina e o site que deseja clonar só aguardar...
+
+<img src="https://github.com/user-attachments/assets/1e06b976-dffe-4811-906f-9c6c0102854f" width="600"/>
+
+
 
 ---
 - Obtendo o endereço da máquina: ``` ifconfig ```
