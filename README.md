@@ -17,7 +17,7 @@
 
 Nessa seção iremos escolher qual será nosso ataque diante de uma gama de opções.
 
-Escolhendo a opção 1 iremos fazer uma engelharia social.
+Escolhendo a opção 1) iremos realizar uma engelharia social.
   
 <img src="https://github.com/user-attachments/assets/60e3ea64-7b3a-48d2-a971-535d15a6eae5" width="400"/>
 
