@@ -39,7 +39,7 @@ Escolhendo a opção 3) Credential Harvester Attack Method iremos prosseguir com
 
 <img src="https://github.com/user-attachments/assets/56522dad-4a2b-4623-a46a-4f7c1b0d577f" width="600"/>
 
-
+***
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
