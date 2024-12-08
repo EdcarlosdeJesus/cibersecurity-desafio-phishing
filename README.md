@@ -37,7 +37,7 @@ Um breve resumo sobre 'Credential Harvester Attack Method' => O método Credenti
 
 Escolhendo a opção 3) Credential Harvester Attack Method iremos prosseguir com a nossa engelharia.
 
-<img src="https://github.com/user-attachments/assets/56522dad-4a2b-4623-a46a-4f7c1b0d577f" width="200"/>
+<img src="https://github.com/user-attachments/assets/56522dad-4a2b-4623-a46a-4f7c1b0d577f" width="600"/>
 
 
 - Método de ataque: ``` Site Cloner ```
