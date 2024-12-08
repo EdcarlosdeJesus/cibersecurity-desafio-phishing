@@ -65,6 +65,9 @@ Após colocar o Ip da máquina e o site que deseja clonar só aguardar...
 <img src="https://github.com/user-attachments/assets/1e06b976-dffe-4811-906f-9c6c0102854f" width="800"/>
 
 
+Achei tão facinante esse projeto que resolvi ir um pouco alem e por que nao tentar em outros site, como proprio instagram
+
+<img src="https://github.com/user-attachments/assets/f18989f6-22bf-457c-a4c6-083fb5e2c245" width="800"/>
 
 ---
 - Obtendo o endereço da máquina: ``` ifconfig ```
