@@ -18,7 +18,7 @@ Nessa seção iremos escolher qual será nosso ataque diante de uma gama de opç
   
 <img src="https://github.com/user-attachments/assets/60e3ea64-7b3a-48d2-a971-535d15a6eae5" width="400"/>
 
---
+ 
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 
 Escolhendo a opção 1 iremos fazer uma engelharia social.
@@ -26,6 +26,8 @@ Escolhendo a opção 1 iremos fazer uma engelharia social.
 
   
 - Método de ataque: ```Credential Harvester Attack Method ```
+
+  
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
