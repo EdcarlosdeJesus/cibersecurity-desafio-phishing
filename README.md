@@ -15,7 +15,7 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 
   
-  <img src="[https://github.com/user-attachments/assets/ef58b643-d95c-43e4-8f1a-4ffb9a1d4ec4](https://github.com/user-attachments/assets/d7ce4936-c3f2-4385-b671-b662d5f644b8)" width="400"/>
+  <img src="https://github.com/user-attachments/assets/ef58b643-d95c-43e4-8f1a-4ffb9a1d4ec4](https://github.com/user-attachments/assets/d7ce4936-c3f2-4385-b671-b662d5f644b8" width="400"/>
 
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
