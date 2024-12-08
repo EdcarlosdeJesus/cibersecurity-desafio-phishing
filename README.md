@@ -21,11 +21,6 @@ Escolhendo a opção 1) iremos realizar uma engelharia social.
   
 <img src="https://github.com/user-attachments/assets/60e3ea64-7b3a-48d2-a971-535d15a6eae5" width="400"/>
 
-Usando o Ip da máquina vamos acessar o nosso site falso.
-
-<img src="https://github.com/user-attachments/assets/8b1a6a4f-34a4-469c-b97c-b3321897af14" width="400"/>
-
-
 ***
  
 - Vetor de ataque: ``` Web Site Attack Vectors ```
