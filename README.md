@@ -62,7 +62,7 @@ Site Cloner => clonar completamente um site de sua escolha
 
 Após colocar o Ip da máquina e o site que deseja clonar só aguardar...
 
-<img src="https://github.com/user-attachments/assets/1e06b976-dffe-4811-906f-9c6c0102854f" width="800"/>
+<img src="https://github.com/user-attachments/assets/55ffc114-2ea6-4ece-9d3e-4baa3c7d2841" width="800"/>
 
 
 ---
