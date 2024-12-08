@@ -32,23 +32,23 @@ Ainda falando sobre engelharia social iremos optar pelo web Site attack Vectors 
   ---
   
 - Método de ataque: ```Credential Harvester Attack Method ```
-  
-Um breve resumo sobre 'Credential Harvester Attack Method' => O método Credential Harvester utilizará a clonagem da web de um site que tenha um campo de nome de usuário e senha e coletará todas as informações postadas no site.
 
 Escolhendo a opção 3) Credential Harvester Attack Method iremos prosseguir com a nossa engelharia.
+
+Um breve resumo sobre 'Credential Harvester Attack Method' => O método Credential Harvester utilizará a clonagem da web de um site que tenha um campo de nome de usuário e senha e coletará todas as informações postadas no site.
 
 <img src="https://github.com/user-attachments/assets/56522dad-4a2b-4623-a46a-4f7c1b0d577f" width="600"/>
 
 ***
 - Método de ataque: ``` Site Cloner ```
 
-Site Cloner =>clonar completamente um site de sua escolha
+Escolhendo a opção 2) Site Cloner vamos da proseguimento no nosso projeto.
+
+Site Cloner => clonar completamente um site de sua escolha
  e permitir que você utilize os vetores de ataque dentro do completamente
  mesma aplicação web que você estava tentando clonar.
- 
-Escolhendo a opção 2)Site Cloner vamos da proseguimento no nosso projeto.
 
-<img src="image](https://github.com/user-attachments/assets/3a0b3290-1baf-43a3-a945-8594714801fd" width="600"/>
+<img src="https://github.com/user-attachments/assets/3a0b3290-1baf-43a3-a945-8594714801fd" width="600"/>
 
 ---
 - Obtendo o endereço da máquina: ``` ifconfig ```
